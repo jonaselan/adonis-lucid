@@ -305,7 +305,7 @@ class BaseModel {
    * Merge attributes into on a model instance without
    * overriding existing attributes and their values
    *
-   * @method fill
+   * @method merge
    *
    * @param  {Object} attributes
    *
